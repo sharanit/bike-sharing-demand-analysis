@@ -20,7 +20,7 @@ git clone https://github.com/yourusername/bike-sharing-demand-analysis.git && cd
 
 **Option A - Using Git:**
 ```bash
-git clone https://github.com/yourusername/bike-sharing-demand-analysis.git
+git clone https://github.com/sharanit/bike-sharing-demand-analysis.git
 cd bike-sharing-demand-analysis
 ```
 

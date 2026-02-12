@@ -142,7 +142,7 @@ If you need help:
 
 1. **Clone your fork**:
    ```bash
-   git clone https://github.com/your-username/bike-sharing-demand-analysis.git
+   git clone https://github.com/sharanit/bike-sharing-demand-analysis.git
    cd bike-sharing-demand-analysis
    ```
 

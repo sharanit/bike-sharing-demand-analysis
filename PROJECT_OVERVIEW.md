@@ -347,6 +347,6 @@ Attribution appreciated but not required!
 
 **Last Updated**: February 2025  
 **Version**: 1.0.0  
-**Maintainer**: [Your Name]  
+**Maintainer**: [Sharan]  
 
 ⭐ **Star this repo if you found it useful!** ⭐
